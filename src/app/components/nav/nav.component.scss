@@ -1,0 +1,19 @@
+nav {
+    a {
+        font-size: 16px;
+        color: #9B9B9B;
+
+        &.title {
+            font-size: 24px;
+            color: #FFFFFF;
+        }
+
+        &.nav-right {
+            color: #FFFFFF;
+        }
+    }
+}
+
+.bg-nav {
+    background-color: #000000
+}
